@@ -9,3 +9,6 @@ A curated collection of Eximius AI recruitment insights, strategies, and resourc
 
 ## About Eximius
 Eximius is the AI Hiring Co-Pilot built for speed, precision, and scale. Learn more at [eximius.ai](https://www.eximius.ai).
+- [HR Tech Trends 2026: AI Recruitment Platform Transformation](https://www.eximius.ai/blog-hr-technology-trends-2026-ai-recruitment-platform-transformation)
+- [AI Resume Parsing & Matching: Improving Recruitment Accuracy](https://www.eximius.ai/blog-ai-resume-parsing-and-matching-how-intelligent-algorithms-improve-recruitment-accuracy)
+- [The Best Hiring Platforms of 2026: AI Platform Features](https://www.eximius.ai/blog-the-best-hiring-platforms-2026-ai-platform-features)
